@@ -32,9 +32,9 @@ module.exports = {
       iconClassName: 'fa fa-twitter'
     },
     {
-      label: 'Email',
-      url: 'nutterj90@gmail.com',
-      iconClassName: 'fa fa-envelope'
+      label: 'Portfolio',
+      url: 'https://jamesnutter.co/',
+      iconClassName: 'fa fa-user-o'
     }
   ],
   copyright: 'Copyright © 2018. James Nutter' // Copyright string for the footer of the website and RSS feed.
