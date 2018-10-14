@@ -1,5 +1,5 @@
 ---
-title: Introducing Gatsby Material Starter
+title: this is a test post
 date: '2018-07-02'
 cover: /assets/2.jpg
 slug: my_first_post
