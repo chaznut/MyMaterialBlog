@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'One Blog to Rule Them All', // Site title.
+  siteTitle: "Chaznut's Blog", // Site title.
   siteTitleShort: 'Nutter Blog', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'James Blog', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
