@@ -1,16 +1,16 @@
-import React from "react";
-import Helmet from "react-helmet";
-import { graphql } from "gatsby";
-import Layout from "../layout";
-import PostListing from "../components/PostListing";
-import SEO from "../components/SEO";
-import config from "../../data/SiteConfig";
+import React from 'react';
+import Helmet from 'react-helmet';
+import { graphql } from 'gatsby';
+import Layout from '../layout';
+import PostListing from '../components/PostListing';
+import SEO from '../components/SEO';
+import config from '../../data/SiteConfig';
 
 class Index extends React.Component {
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <Layout location={this.props.location} title="Home">
+      <Layout location={this.props.location} title="Chaznut">
         <div className="index-container">
           <Helmet>
             <title>{config.siteTitle}</title>
