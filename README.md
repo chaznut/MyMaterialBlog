@@ -11,10 +11,3 @@
 A blog written by a self-taught developer. Powered by Gatsby and React-MD.
 
 [Demo website.](https://vagr9k.github.io/gatsby-material-starter/)
-
-```css
-@import '~react-md/src/scss/react-md';
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
-```
