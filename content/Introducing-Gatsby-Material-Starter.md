@@ -1,6 +1,6 @@
 ---
 title: this is a test post
-date: '2018-07-02'
+date: 2018-10-14T12:00:00.000Z
 cover: /assets/2.jpg
 slug: my_first_post
 category: gatsby
