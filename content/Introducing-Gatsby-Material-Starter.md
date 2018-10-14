@@ -1,14 +1,13 @@
 ---
-title: "Introducing Gatsby Material Starter"
-cover: "starter-logo-1024.png"
-category: "gatsby"
+title: Introducing Gatsby Material Starter
+date: '2018-07-02'
+cover: /assets/2.jpg
+slug: my_first_post
+category: gatsby
 tags:
-
-    - gatsby
-    - material
-    - starter
-
-date: "2018-07-02"
+  - gatsby
+  - material
+  - starter
 ---
 
 Around a year ago, this project was one of the first ones ported to the `v1` version of GatsbyJS.
