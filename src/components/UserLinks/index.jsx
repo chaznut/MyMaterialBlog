@@ -24,7 +24,7 @@ class UserLinks extends Component {
     if (!userLinks) {
       return null;
     }
-    return <div className="user-links">{this.getLinkElements()}</div>;
+    return <div className="user-links"><span>{this.getLinkElements()}</span></div>;
   }
 }
 
