@@ -1,10 +1,11 @@
-@import "../../layout/theme.scss";
+@import '../../layout/theme.scss';
 
 .footer {
   justify-content: center;
   align-content: center;
   background-color: $md-primary-color;
   padding: 10px 5px 5px;
+  overflow: hidden;
 
   .notice-container {
     display: flex;
