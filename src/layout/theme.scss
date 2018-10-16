@@ -3,6 +3,11 @@ $md-primary-color: #96858f;
 $md-secondary-color: #eee;
 $md-tertiary-color: #9099a2;
 
+.main-container {
+  overflow: hidden;
+  min-height: 100vh !important;
+}
+
 .main-container,
 .darker-background {
   background-color: $md-tertiary-color;

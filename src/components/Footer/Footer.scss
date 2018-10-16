@@ -5,13 +5,14 @@
   align-content: center;
   background-color: $md-primary-color;
   padding: 10px 5px 5px;
-  overflow: hidden;
+  position: relative;
 
   .notice-container {
     display: flex;
     align-content: center;
     align-items: center;
     margin-top: 25px;
+    overflow: hidden;
 
     .copyright {
       display: flex;
@@ -59,4 +60,5 @@
   bottom: 0;
   right: 0;
   z-index: 15;
+  overflow: hidden;
 }
