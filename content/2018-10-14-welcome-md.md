@@ -16,6 +16,4 @@ Thank you so much for stopping by my blog! I have created this blog to document 
 
 That's all for my introduction! My next post will be about my current side project I am working on that I am very pumped up about! Talk to you then!
 
-
-
-## **_\-James_**
+## _**\-James**_
