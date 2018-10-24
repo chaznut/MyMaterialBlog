@@ -8,4 +8,4 @@ tags:
   - freelance
   - webdev
 ---
-# <align=center>I never thought this moment would come</align>
+# <align=center>I never thought this moment would come.</align>
