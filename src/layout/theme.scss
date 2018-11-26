@@ -1,7 +1,7 @@
 @import '~react-md/src/scss/react-md';
-$md-primary-color: #96858f;
-$md-secondary-color: #eee;
-$md-tertiary-color: #9099a2;
+$md-primary-color: #0097a7;
+$md-secondary-color: #e59972;
+$md-tertiary-color: #eee;
 
 .main-container {
   overflow: hidden;
@@ -16,4 +16,10 @@ $md-tertiary-color: #9099a2;
 a:link {
   color: $md-secondary-color;
   text-decoration: none;
+}
+
+.footer a,
+h4,
+button {
+  color: #eee !important;
 }
