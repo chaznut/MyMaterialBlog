@@ -21,6 +21,6 @@ Part two coming soon!
 
 **Resources mentioned**
 
-[Free Code Camp](www.freecodecamp.com) website where you can learn coding online and check out there amazing community in the forums.
+[Free Code Camp](https://www.freecodecamp.org/?ref=mn) website where you can learn coding online and check out there amazing community in the forums.
 
 [Andrei Neagoie's course(s)](https://www.udemy.com/user/andrei-neagoie/) - I began my journey with Andrei's [The Complete Web Developer in 2018: Zero to Mastery course](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/) and since then I have taken all of his other courses as well. He keeps them all up to date and even recently updated the mastery course above to be relevant going into 2019!
