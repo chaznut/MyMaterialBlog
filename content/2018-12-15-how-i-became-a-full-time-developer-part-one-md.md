@@ -9,7 +9,7 @@ tags:
   - professional
   - life
 ---
-I am excited to announce I have accepted my first full-time developer position with a company in Columbia, Maryland. While it is the first offer I have _accepted _it was not my first _offer _for a full-time spot. The journey to this point was not an easy one and at times was more defeating than rewarding. However I can say with confidence this is one of the best moments of my life. I have struggled to think of a way to structure this story and for that reason have held out on posting it. I have come to the conclusion that breaking this up into a timeline/parts is the best way to get through it all. I will be authoring multiple blog posts documenting the path that lead me to becoming employed as a self-taught developer and this is part one. Let us begin!
+I am excited to announce I have accepted my first full-time developer position with a company in Columbia, Maryland. While it is the first offer I have **accepted **it was not my first **offer **for a full-time spot. The journey to this point was not an easy one and at times was more defeating than rewarding. However I can say with confidence this is one of the best moments of my life. I have struggled to think of a way to structure this story and for that reason have held out on posting it. I have come to the conclusion that breaking this up into a timeline/parts is the best way to get through it all. I will be authoring multiple blog posts documenting the path that lead me to becoming employed as a self-taught developer and this is part one. Let us begin!
 
 # The First Month or Two.
 
